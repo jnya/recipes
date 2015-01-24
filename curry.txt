@@ -3,3 +3,6 @@ Ingredients:
  potatoes
  beef, pork
  white radish
+
+Steps:
+ 1. boil water
